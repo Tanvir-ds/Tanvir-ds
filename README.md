@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
-<h3 align="center">I am a professional and experienced Machine Learning Engineer to help with your projects.I will use a different machine and deep learning algorithms to find the best solution according to problems..</h3>
+<h3 align="center">Passionate about leveraging data to drive informed decisions and solve complex problems, I am a dedicated data scientist with a proven track record in transforming raw data into actionable insights. My mission is to harness the power of data to facilitate innovation and create value for organizations...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-ds&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-ds" /> </p>
 
